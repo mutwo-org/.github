@@ -47,23 +47,12 @@ abjad.show(abjad_score)
 ![Lilypond engraving](lilypond_engraving.png)
 
 
-### Installation
-
-Mutwo is available on [pypi](https://pypi.org/project/mutwo/) and can be installed via pip:
-
-```sh
-pip3 install mutwo.core
-```
-
-This only installs the core functionality (see infos regarding plugins below).
-
-
 ### Documentation
 
 For more information how to use mutwo read the [documentation](https://mutwo.readthedocs.io/en/latest/).
 
 
-### Modules
+### Modular design
 
 Starting from version 0.43.0 mutwo uses a modular design.
 Only basic functionality is provided by the mutwo core package.
