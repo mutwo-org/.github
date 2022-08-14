@@ -51,7 +51,7 @@ Only basic functionality is provided by the mutwo core package.
 
 #### Added internal functionality
 - [mutwo.music](https://github.com/mutwo-org/mutwo.music): Add music parameters (pitch, volume, ...) and a `SimpleEvent` based class to represent a Note/Chord/Rest (`NoteLike`)
-- [mutwo.common-generators](https://github.com/mutwo-org/mutwo.common-generators): Algorithmic generation of data to be used for artistic works
+- [mutwo.common](https://github.com/mutwo-org/mutwo.common): Algorithmic generation of data to be used for artistic works
 
 #### Added conversion methods
 - [mutwo.midi](https://github.com/mutwo-org/mutwo.midi): Write midi files
