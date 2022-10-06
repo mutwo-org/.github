@@ -50,6 +50,7 @@ Starting from version 0.43.0 mutwo uses a modular design.
 Only basic functionality is provided by the mutwo core package.
 
 #### Added internal functionality
+- [mutwo.core](https://github.com/mutwo-org/mutwo.core): Base package for mutwo ecosystem
 - [mutwo.music](https://github.com/mutwo-org/mutwo.music): Add music parameters (pitch, volume, ...) and a `SimpleEvent` based class to represent a Note/Chord/Rest (`NoteLike`)
 - [mutwo.common](https://github.com/mutwo-org/mutwo.common): Algorithmic generation of data to be used for artistic works
 
