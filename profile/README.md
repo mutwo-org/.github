@@ -53,6 +53,7 @@ Only basic functionality is provided by the mutwo core package.
 - [mutwo.core](https://github.com/mutwo-org/mutwo.core): Base package for mutwo ecosystem
 - [mutwo.music](https://github.com/mutwo-org/mutwo.music): Add music parameters (pitch, volume, ...) and a `SimpleEvent` based class to represent a Note/Chord/Rest (`NoteLike`)
 - [mutwo.common](https://github.com/mutwo-org/mutwo.common): Algorithmic generation of data to be used for artistic works
+- [mutwo.timeline](https://github.com/mutwo-org/mutwo.timeline): Place events on a time line by start and end times.
 
 #### Added conversion methods
 - [mutwo.midi](https://github.com/mutwo-org/mutwo.midi): Write midi files
