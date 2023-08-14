@@ -41,7 +41,7 @@ abjad.show(abjad_score)
 
 ### Documentation
 
-For more information how to use mutwo read the [documentation](https://mutwo.readthedocs.io/en/latest/).
+For more information how to use mutwo read the [documentation](https://mutwo-org.github.io/).
 
 
 ### Modular design
@@ -65,7 +65,7 @@ Only basic functionality is provided by the mutwo core package.
 - [mutwo.ekmelily](https://github.com/mutwo-org/mutwo.ekmelily): Simplify writing microtonal notation in Lilypond by rendering files for the Lilypond extension [Ekmelily](http://ekmelic-music.org/en/extra/ekmelily.htm)
 - [mutwo.mmml](https://github.com/mutwo-org/mutwo.mmml): Write music in plain text files and convert it to mutwo events (experimental)
 
-Writing new plugins is simple, its basic structure can be understood at the [mutwo.example](https://github.com/mutwo-org/mutwo.example) repo.
+Writing new plugins is simple, its basic structure can be understood at the [mutwo.example](https://github.com/mutwo-org/mutwo.ext-example) repo.
 
 
 ### Similar projects
