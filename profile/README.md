@@ -85,4 +85,6 @@ There are a many similar composition frameworks. Maybe one of them fits better t
 - [OpenMusic](https://openmusic-project.github.io/): "OpenMusic (OM) is a visual programming language for computer-assisted music composition created at IRCAM, inheriting from a long tradition of computer-assisted composition research."
 - [Euterpea](http://www.euterpea.com/): "Euterpea is a cross-platform, domain-specific language for computer music applications embedded in the Haskell programming language."
 - [jMusic](http://explodingart.com/jmusic/): "jMusic is a project designed to provide composers and software developers with a library of compositional and audio processing tools."
-- [Comic](https://github.com/simonbahr/Comic): "A Lisp-Environment for Inter-Media Composition."
+- [MusicKit](https://github.com/benzguo/MusicKit): A framework for composing and transforming music in Swift
+- [Opusmodus](https://www.opusmodus.com/): “Opusmodus is a comprehensive computer-aided environment for the whole work of music composition a virtual space where a composer can develop ideas and experiments for projects large and small” (commercial, closed-source)
+- [gm](https://github.com/flujoo/gm): "R Package for Music Score and Audio Generation"
