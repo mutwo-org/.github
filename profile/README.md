@@ -77,7 +77,9 @@ There are a many similar composition frameworks. Maybe one of them fits better t
 - [scamp](http://scamp.marcevanstein.com/): "SCAMP is a computer-assisted composition framework in Python designed to act as a hub, flexibly connecting the composer-programmer to a variety of resources for playback and notation."
 - [isobar](https://github.com/ideoforms/isobar): "isobar is a Python library for creating and manipulating musical patterns, designed for use in algorithmic composition, generative music and sonification."
 - [JythonMusic](https://jythonmusic.me/): "JythonMusic is an environment for music making and creative programming."
-
+- [musisc21](http://web.mit.edu/music21/): "A Toolkit for Computational Musicology"
+- [musicpy](https://github.com/Rainbow-Dreamer/musicpy): "Musicpy is a music programming language in Python designed to write music in very handy syntax through music theory and algorithms."
+- [musx](https://github.com/musx-admin/musx): "musx (pronounced muse ex) is a package for composing and processing symbolic music information."
 
 **Composition frameworks in other languages:**
 
