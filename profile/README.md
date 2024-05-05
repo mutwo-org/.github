@@ -10,7 +10,7 @@ The following example generates a short midi file:
 from mutwo import core_events
 from mutwo import music_events
 from mutwo import midi_converters
-simple_melody = core_events.SequentialEvent(
+simple_melody = core_events.Consecution(
     [
         music_events.NoteLike(pitch_name, duration=duration, volume="mf")
         for pitch_name, duration in (
@@ -30,7 +30,7 @@ Making Western notation via [abjad](https://github.com/Abjad/abjad) of the same 
 ```python3
 from mutwo import abjad_converters
 import abjad
-abjad_voice_converter = abjad_converters.SequentialEventToAbjadVoice()
+abjad_voice_converter = abjad_converters.ConsecutionToAbjadVoice()
 abjad_voice = abjad_voice_converter.convert(simple_melody)
 abjad_score = abjad.Score([abjad.Staff([abjad_voice])])
 abjad.show(abjad_score)
